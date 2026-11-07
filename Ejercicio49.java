@@ -1,3 +1,4 @@
+//Ejercicio 49 de Java
 import java.util.Scanner;
 public class Ejercicio49 {
 
